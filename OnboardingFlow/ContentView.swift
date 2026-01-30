@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  OnboardingFlow
-//
-//  Created by Andres Zubizarreta on 1/30/2026.
-//
-
 import SwiftUI
 
 let gradientColors: [Color] = [
